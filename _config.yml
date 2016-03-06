@@ -7,11 +7,11 @@
 
 # Site settings
 title: Leatherback Monitoring
-email: n/a
+email: contact@leatherback-monitoring.github.io
 description: > # this means to ignore newlines until "baseurl:"
   We are two high school students working to develop an improved method of monitoring sea turtle nest temperatures for biologists in Costa Rica.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://leatherback-monitoring.github.io" # the base hostname & protocol for your site
 github_username:  leatherback-monitoring
 
 # Build settings
