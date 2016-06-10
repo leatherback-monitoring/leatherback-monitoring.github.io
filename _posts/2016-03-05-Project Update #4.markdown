@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Update #5:Prototyping Continues"
+title:  "Project Update #4:The First Protoype"
 date:   2016-03-05 14:56:08 -0800
 categories: jekyll update
 ---
