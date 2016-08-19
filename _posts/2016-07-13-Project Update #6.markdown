@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Update #6: Manufacturer's Boards Arrive"
-date:   2016-7-13 6:17:58 -0800
+date:   2016-07-13 6:17:58 -0800
 categories: jekyll update
 ---
 While the SMD prototype we had made on the Othermill verified that the circuit we had designed worked, we were ready for the next step in the process: sending off the design to a professional manufacturer to receive a more reliable, high quality PCB. Today, the boards came and the difference is huge. 
