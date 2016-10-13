@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Update #1:The Beginning"
+title:  "The Beginning"
 date:   2015-09-10 14:56:08 -0800
 categories: jekyll update
 ---

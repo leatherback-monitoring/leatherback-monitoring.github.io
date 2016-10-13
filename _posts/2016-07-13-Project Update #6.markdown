@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Update #6: Manufacturer's Boards Arrive"
+title:  "Manufacturer's Boards Arrive"
 date:   2016-07-13 6:17:58 -0800
 categories: jekyll update
 ---
