@@ -16,7 +16,7 @@ Yes, there's the downside that a circular PCB is less space efficient than a squ
 
 The main downside, however, is that all of the design work to make the best square turtle sensor ever is "wasted." I put wasted in quotes because it's really not--the prototype taught us something about our design. Only after investing the time into developing a square prototype could we see that circular sensors were better.
 
-That means the PCB layout Erik worked down to 30x30mm had to be re-arranged for a circular shape. It means the time Matthew spent working on selecting the best material and shape for the gasket, plus the CAD refinement of a square case, is no longer relevant. So it goes.
+That means the PCB layout Erik worked down to 30x30mm had to be re-arranged for a circular shape. It means the time Matthew spent working on selecting the best material and shape for the gasket, plus the CAD refinement of a square case, is no longer relevant. [So it goes.](https://en.wikipedia.org/wiki/Slaughterhouse-Five#Tralfamadorian_philosophy)
 
 And a dead end? At the beginning of the project, we investigated buying an off-the-shelf case that we could be sure was waterproof. We ended up going custom because of the flexibility it provided us, but Matthew got all sorts of quotes from Alibaba and learned about the complicated nature of buying wholesale in China.
 

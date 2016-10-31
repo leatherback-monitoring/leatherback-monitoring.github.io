@@ -8,7 +8,7 @@ Both the electronics and its protective case have undergone a number of signific
 
 We've tired a bunch of different solutions to strike a balance. First, we tried using a couple of breather vents from McMaster Carr--one with louvered panels, another that advertised itself as "liquid-tight."
 
-[photos of the different initial filters]
+![Port Comparison](/assets/portcomparison.jpg "Port Comparison")
 
 We realized that some options were too porous, and some weren't porous enough. We eventually settled on using sintered metal filters as a humidity port, which are densely packed disks of sintered steel that resist the ingress of liquid water but allow for passage of gases through the screen. 
 

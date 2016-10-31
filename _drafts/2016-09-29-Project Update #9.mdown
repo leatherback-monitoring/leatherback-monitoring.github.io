@@ -1,7 +1,0 @@
----
-layout: post
-title:  "SMD Board Assembly"
-date:   2016-9-29 8:47:58 -0800
-categories: jekyll update
----
-Well, we ordered 23 sets of components and 20 PCBs of the new circular rev, and they've come. We ended up getting 25 PCBs, which is pretty nice--our PCB manufacturer Elecrow just added them on presumably because they fit in the original panel they cut the PCBS out of.
