@@ -14,7 +14,7 @@ We realized that some options were too porous, and some weren't porous enough. W
 
 ![Sintered Metal Filters](/assets/sinteredmetaldisks.jpg "Sintered Metal Disks")
 
-What's confusing sometimes about these kinds of products is they don't specific what part of the product is waterproof/water resistant/some other kind of ingress protection.
+What's confusing sometimes about these kinds of products is they don't specify what part of the product is waterproof/water resistant/some other kind of ingress protection.
 
 For example, a switch we bought calls itself IP67--which just stands for Ingress Protection level 67. The first digit, 6, refers to dust resistance (greater is better), the second is for water resistance. There are specific tests you can do to determine the IP rating of your product. But it wasn't clear to us whether the IP67 rating was for the entire switch, or the switch if you mounted it according the manufacturer's constructions. What happens if the leads get wet? Deep questions that still remained to be answered....
 
