@@ -51,7 +51,4 @@ Now, this was a lot of tutorial. Now onto our actual device. We reposted the ima
 
 ![Our Breadboard Prototype](/assets/ourbreadboardprototype.jpg "Our Breadboard Prototype")
 
-The prototype connects an Arduino to:
-	1) a temperature and humidity sensor
-	2) a micro USB breakout board
-	3) ... add more here
+The breadboard prototype connects the individual components that make up an Arduino to an SMD 
