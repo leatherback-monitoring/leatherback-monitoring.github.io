@@ -4,9 +4,9 @@ title:  "SMD Board Assembly"
 date:   2016-9-29 8:47:58 -0800
 categories: jekyll update
 ---
-Well, we ordered 23 sets of components and 20 PCBs of the new circular rev, and they've come. We ended up getting 25 PCBs, which is pretty nice--our PCB manufacturer Elecrow just added them on presumably because they fit in the original panel they cut the PCBS out of.
+Well, we ordered 23 sets of components and 20 PCBs of the new circular rev, and they've come. We ended up getting 25 PCBs, which is pretty nice--our PCB manufacturer Elecrow just added them on presumably because they fit in the original panel they cut the PCBS out of. Besides the largest visible change——the shift from square to circular--we've madea  few other improvements, including adding a data connection header, shifting components around, adding a larger pad on the back for better battery connection, and tweaking the text and labels.
 
-[pcbs photo]
+!["Square - Circular Comparison"](/assets/pcbcomparison.jpg "Square and Circular PCB Comparison")
 
 We tried to have a build session where we'd set up an assembly line to make the sensor boards. Instead of the parts moving to us, however, we'd move around a central table that had the parts.
 
