@@ -13,4 +13,4 @@ We have reached a major milestone in our project: sending down prototype sensors
 
 	If it's pretty accurate, we assume that error derives from the crystal oscillator and so stretch or shrink the data to have an evan repeated interval. Below is a graph of the data before and after synchronization.
 
-	If, in contrast, the starting time the researcher entered is way different from our calculated start time, we can only assume the sensor turned on and off or something else funky happened. We correct for this by assuming that each interval was an exact 8 seconds --while this is not a perfect solution, the raw data is also included so that researchers can flag if there's a big gap in the data or something. 
+	If, in contrast, the starting time the researcher entered is way different from our calculated start time, we can only assume the sensor turned on and off or something else funky happened. We correct for this by assuming that each interval was an exact 8 seconds--while this is not a perfect solution, the raw data is also included so that researchers can flag if there's a big gap in the data or something. 
