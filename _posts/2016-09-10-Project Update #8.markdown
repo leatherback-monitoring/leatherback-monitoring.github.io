@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Both the electronics and its protective case have undergone a number of significant revisions and iterations; for this post, I'll be focusing on the case. The case presents the unique challenge in that it's required to be as waterproof as possible while still allowing measurement of humidity, which takes place on a sensor module inside the case. Those are two mutually exclusive things--humidity measurement requires some kind of opening that water vapor can pass through, waterproofing in its most simple form is blocking all openings. 
 
-We've tired a bunch of different solutions to strike a balance. First, we tried using a couple of breather vents from McMaster Carr--one with louvered panels, another that advertised itself as "liquid-tight."
+We've tried a bunch of different solutions to strike a balance. First, we tried using a couple of breather vents from McMaster Carr--one with louvered panels, another that advertised itself as "liquid-tight."
 
 ![Port Comparison](/assets/portcomparison.jpg "Port Comparison")
 
@@ -21,5 +21,5 @@ For example, a switch we bought calls itself IP67--which just stands for Ingress
 
 Another aspect of weatherproofing we've been looking into and testing out is conformal coating. Conformal coating is a process in which a thin layer of protective chemical (usually some kind of acrylic, polyurethane, epoxy, or silicone) is deposited on a PCB through dipping, spraying, painting or curing. There are advantages to each type of material and coating method, but we're looking into spray acrylic as it's easy to apply and relatively easy to rework (remove & redo if something goes wrong or needs to be tested). However, we can't conformally coat the opening of our humidity sensor, because then it would be unable to log humidity.
 
-The last part of weatherproofing the sensor is the union between the two distinct parts of the case. As the case is now a roughly cylindrical shape, a top and bottom piece will screw together. It's tricky to get the tolerancing right of the screw threads because the 3D printer we're using has not had great repeatibility, and because we've never modeled actually functional threads before. However, we're confident a combination of 3D printer maintenance tweaks and CAD tolerancing in good threading action. 
+The last part of weatherproofing the sensor is the union between the two distinct parts of the case. As the case is now a roughly cylindrical shape, a top and bottom piece will screw together. It's tricky to get the tolerancing right of the screw threads because the 3D printer we're using has not had great repeatability, and because we've never modeled actually functional threads before. However, we're confident a combination of 3D printer maintenance tweaks and CAD tolerancing in good threading action. 
 

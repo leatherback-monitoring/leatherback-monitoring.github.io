@@ -12,7 +12,7 @@ We tried to have a build session where we'd set up an assembly line to make the 
 
 We'd tape the boards down with a bit of space in between each one. The first person would come around applying solder to each board, by dragging a blob of solderpaste over the PCB stencil, which in turn is lined up exactly with the pads of the PCB. 
 
-[photo of everything lined up]
+!["Boards laid out"](/assets/laidoutboards.jpg "Boards laid out ready for placing")
 
 The next couple folks would come by placing components. We'd try to place complicated, expensive components first (like the processor, which has a bunch of pins very close together) and then place cheaper passive components, which are less complicated.
 
