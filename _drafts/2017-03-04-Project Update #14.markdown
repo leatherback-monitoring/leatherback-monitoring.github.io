@@ -15,6 +15,15 @@ We have reached a major milestone in our project: sending down prototype sensors
 
 	* If, in contrast, the starting time the researcher entered is way different from our calculated start time, we can only assume the sensor turned on and off or something else funky happened. We correct for this by assuming that each interval was an exact 8 seconds --while this is not a perfect solution, the raw data is also included so that researchers can flag if there's a big gap in the data or something. 
 	
-	The code for the data downloader is publicly available on GitHub (here)[https://github.com/leatherback-monitoring/DataParser]. From a user experience perspective, the program is very basic: it is entirely run in the command line, asking the user questions and validating answers to compute its result. However, it was still an interesting exercise in understand the user experience in the data downloading software: which questions were asked when, how they were worded, and what feedback the program outputted to the user all had to be considered. The backend of the datadownloader was no small feat either--we had to make sure that the software would find an incoming serial detection and send the sensor a "Read" command to download 
+	The code for the data downloader is publicly available on GitHub (here)[https://github.com/leatherback-monitoring/DataParser]. From a user experience perspective, the program is very basic: it is entirely run in the command line, asking the user questions and validating answers to compute its result. However, it was still an interesting exercise in understand the user experience in the data downloading software: which questions were asked when, how they were worded, and what feedback the program outputted to the user all had to be considered. The backend of the data downloader was no small feat either--we had to make sure that the software would find an incoming serial detection and send the sensor a "Read" command to download 
 
-* We created a nice 
+* We created a nice case to hold the data downloading board, which is just your average (SparkFun FTDI Basic Breakout board)[https://www.sparkfun.com/products/9873]. This is what reads data off of the Arduino via a serial connection and transmits it to the computer via a USB connection. Rather than having the bare components exposed, we encapsulated it in a 3D-printed case we found on Thingiverse.
+
+![The Packaged Data Downloader in Action](/assets/datadownloadercase.jpg "The Packaged Data Downloader in Action")
+
+* We conformally coated the boards. I briefly described this in "The Case Evolution," but conformal coating involves applying a water and corrosion resistant layer of material to a PCB board. We sprayed our board with acrylic conformal coating by hand, something there wasn't a ton of documentation on. To that end, we had to do a bit of experimentation on how much spray to apply and how thoroughly we should hit every component. 
+
+
+![Ready to Ship](/assets/readytoship.jpg "Ready to Ship")
+
+
